@@ -3,21 +3,19 @@ return `「 *PRICE LIST* 」
 							
 ⬣ PRICE SEWABOT
 
-⬡ 1 MINGGU = ${_minggu}
-⬡ 2 MINGGU = ${__minggu}
-⬡ 3 MINGGU = ${___minggu}
-⬡ 1 BULAN = ${_bulan}
-⬡ PERMANEN = ${_permanen}
-⬡ PERMANEN + USER PREM = ${__permanen}
+⬡ 1minggu 1k
+⬡ 1bulan 2k
+⬡ Permanen 3k
+⬡ Permenen user Prem 4k
 
 
 ⬣ PRICE JADIBOT
 
-⬡ JADI BOT PERMANEN 20k
+⬡ JADI BOT PERMANEN 16K
 
 
 ⬣ MINAT? PM
-⬡ wa.me/62822110691681
+⬡ http://wa.me/6282211069168
 
 
 NOTE : 
